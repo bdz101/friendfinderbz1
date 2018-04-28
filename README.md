@@ -1,7 +1,7 @@
 # FriendFinder
 
 ## Getting Started
-https://friendfinderbz.herokuapp.com/
+https://friendfinderbz1.herokuapp.com/
 
 ## Technologies used
 - Node.js
